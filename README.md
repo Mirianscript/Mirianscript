@@ -1,4 +1,9 @@
-## Hi there 👋
+## Oi! Eu sou a Mirian 👋
+Estou iniciando minha jornada no mundo da tecnologia, com foco em Front-End e UI/UX.
+Tenho também um grande interesse por ecotecnologia e IA aplicada ao design — onde criatividade encontra inovação.
+
+Este espaço é o registro da construção do meu futuro.
+Me acompanhe nessa caminhada, mesmo que só observando. 🌱🚀
 
 <!--
 **Mirianscript/Mirianscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
